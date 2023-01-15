@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="arrayWithTips">
+        <item>1. Länge des Passwortes soll ausreichend sein.</item>
+        <item>2. Kein Geburtstag wählen.</item>
+        <item>3. Keinen Namen im Bekanntenkreis wählen.</item>
+        <item>4. Kein 12345 oder ähnliches wählen</item>
+        <item>5. Wenn möglich soll das Passwort mind. 6 Zeichen enthalten.</item>
+        <item>6. Nicht nur Zahlen.</item>
+        <item>7. Kein Haustiername.</item>
+        <item>8. Nicht nur Kleinbuchstaben.</item>
+        <item>9. Nicht nur Großbuchstaben.</item>
+        <item>10. Am besten Mix aus Zahlen, Groß- und Kleinbuchstaben.</item>
+        <item>11. Passwort an so wenige Personen wie möglich weitergeben.</item>
+        <item>12. Passwort nicht öffentlich weitergeben.</item>
+        <item>13. Passwort nicht öffentlich sichtbar festlegen.</item>
+        <item>14. Passwort nicht leicht einsehbar aufschreiben.</item>
+        <item>15. Wenn nicht nötig Passwort nicht ändern.</item>
+        <item>16. Passwort merken, besser nicht auf Papier schreiben.</item>
+        <item>17. Passwort nur auf vertrauenswürdigen Seiten eingeben.</item>
+        <item>18. Passwortliste wiederholen, um diese nicht zu vergessen.</item>
+    </array>
+</resources>

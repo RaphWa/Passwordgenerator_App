@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Flykey</string>
+
+    <string name="button1Name">Tutorial</string>
+    <string name="button2Name">Generator</string>
+    <string name="button3Name">Tipps</string>
+    <string name="buttonF2_1Name">Passwort generieren</string>
+    <string name="buttonF2_2Name">Passwort kopieren</string>
+
+    <string name="textOfWelcomeOne">Willkommen bei Flykey!</string>
+    <string name="textOfWelcomeTwo">Drücke bitte einen der Tasten unten.</string>
+
+    <string name="textOfTutorialStepOne">Schritt 1:</string>
+    <string name="textOfTutorialStepOneContent">Länge des Passwortes eingeben (6-16)</string>
+    <string name="textOfTutorialStepTwo">Schritt 2:</string>
+    <string name="textOfTutorialStepTwoContent">Knopf drücken und Handy schütteln!</string>
+
+    <string name="errorTextNotImplemented">Hier wurde zu wenig Implementiert.</string>
+
+    <string name="hintForLengthOfPasswordToBeGenerated">8</string>
+    <string name="generatedPasswordTextDefault">[Hier wird das Passwort stehen.]</string>
+    <string name="generatedPasswordTextStartGeneratingByShakingPhone">[Schüttle nun das Handy.]</string>
+    <string name="generatedPasswordTextWrongInputNotANumber">[Bitte geben Sie eine Zahl ein.]</string>
+    <string name="generatedPasswordTextWrongInputWrongNumberTooLow">[Die Zahl ist zu klein. Min: 6]</string>
+    <string name="generatedPasswordTextWrongInputWrongNumberTooHigh">[Die Zahl ist zu groß. Max: 16]</string>
+    <string name="textPasswordSuccessfullyCopied">Das Password wurde erfolgreich kopiert.</string>
+
+
+</resources>
